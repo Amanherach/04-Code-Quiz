@@ -13,28 +13,28 @@ var questions=[
     {
         question:"What color are oranges?",
         answers:[
-            "Pink","Orange","Blue","Purple"
+            "Red","Orange","Blue","Purple"
         ],
         correctAnswer:1
     },
     {
-        question:"What color are oranges?",
+        question:"What color is the sky?",
         answers:[
-            "Pink","Orange","Blue","Purple"
+            "Red","Orange","Blue","Purple"
         ],
-        correctAnswer:1
+        correctAnswer:2
     },
     {
-        question:"What color are oranges?",
+        question:"What color are grapes?",
         answers:[
-            "Pink","Orange","Blue","Purple"
+            "Red","Orange","Blue","Purple"
         ],
-        correctAnswer:1
+        correctAnswer:3
     },
     {
-        question:"What color are oranges?",
+        question:"What color are apples?",
         answers:[
-            "Pink","Orange","Blue","Purple"
+            "Red","Orange","Blue","Purple"
         ],
         correctAnswer:1
     }
